@@ -1,0 +1,135 @@
+C:\Users\jcronin\Downloads\debian-7.1.0-i386-CD-1.iso
+C:\Users\jcronin\Downloads\Fedora-Live-Desktop-i686-19-1.iso
+C:\Users\jcronin\Downloads\Fedora-Live-Desktop-x86_64-19-1.iso
+C:\Users\jcronin\Downloads\MD1
+C:\Users\jcronin\Downloads\MD1.zip
+C:\Users\jcronin\Downloads\smpc.exe
+C:\Users\jcronin\Downloads\Spiceworks.exe
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117.zip
+C:\Users\jcronin\Downloads\TeamViewer_Setup_en.exe
+C:\Users\jcronin\Downloads\virdef
+C:\Users\jcronin\Downloads\virdef (2).zip
+C:\Users\jcronin\Downloads\virdef.zip
+C:\Users\jcronin\Downloads\VirtualBox-4.2.18-88781-Win.exe
+C:\Users\jcronin\Downloads\vtuploader2.0.exe
+C:\Users\jcronin\Downloads\Wireshark-win32-1.10.1.exe
+C:\Users\jcronin\Downloads\MD1\MW1
+C:\Users\jcronin\Downloads\MD1\MW1\MW1
+C:\Users\jcronin\Downloads\MD1\MW1\MW1\lnkrecovery.bat
+C:\Users\jcronin\Downloads\MD1\MW1\MW1\MWscans.bat
+C:\Users\jcronin\Downloads\MD1\MW1\MW1\openhosts.bat
+C:\Users\jcronin\Downloads\MD1\MW1\MW1\pro.bat
+C:\Users\jcronin\Downloads\MD1\MW1\MW1\proIR.bat
+C:\Users\jcronin\Downloads\MD1\MW1\MW1\regfix
+C:\Users\jcronin\Downloads\MD1\MW1\MW1\wget.exe
+C:\Users\jcronin\Downloads\MD1\MW1\MW1\regfix\vistaexe.reg
+C:\Users\jcronin\Downloads\MD1\MW1\MW1\regfix\xpexe.reg
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\bkexglobal.properties
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\bkexlocations.properties
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\bkexlocations2.properties
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\bkfavlocations.properties
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\bklocations.properties
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\ccache.properties
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\database
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\db
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\drives.properties
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\file_descriptions.txt
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\filters
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\ifolder.check
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\ifolder.db
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\ifolder.deleted
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\ifolder.reupload
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\ifolder.subs
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\ifolder2.check
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\ob.data
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\olbu_win7_vista.ico
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\olbu_winxp.ico
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\scobsettings.properties
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\scpaths.properties
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\splash
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\version
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\database\common.sqlite
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\database\common.sqlite-shm
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\database\common.sqlite-wal
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\database\tasks.sqlite
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\database\tasks.sqlite-shm
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\database\tasks.sqlite-wal
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\db\scob.data
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\db\scob.lck
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\db\scob.log
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\db\scob.properties
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\db\scob.script
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\db\scob.tmp
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\filters\desktopfilter.properties
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\filters\docfilter.properties
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\filters\emails.properties
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\filters\financefilter.properties
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\filters\imagesfilter.properties
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\filters\musicfilter.properties
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\filters\presentationsfilter.properties
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\filters\spreadDBfilter.properties
+C:\Users\jcronin\Downloads\Susan Anton_Settings_1376117\settings\filters\videofilter.properties
+C:\Users\jcronin\Downloads\virdef\virdef
+C:\Users\jcronin\Downloads\virdef\virdef\APNSetup.exe
+C:\Users\jcronin\Downloads\virdef\virdef\ApnStub.exe
+C:\Users\jcronin\Downloads\virdef\virdef\ArcadeCandy
+C:\Users\jcronin\Downloads\virdef\virdef\Arcadesafari
+C:\Users\jcronin\Downloads\virdef\virdef\ArcadeSafariGames.exe
+C:\Users\jcronin\Downloads\virdef\virdef\DownloadTerms
+C:\Users\jcronin\Downloads\virdef\virdef\map.txt
+C:\Users\jcronin\Downloads\virdef\virdef\OpenCandy
+C:\Users\jcronin\Downloads\virdef\virdef\PlayFizzSetup (1).exe
+C:\Users\jcronin\Downloads\virdef\virdef\PlayFizzSetup.exe
+C:\Users\jcronin\Downloads\virdef\virdef\TidyNetwork.com
+C:\Users\jcronin\Downloads\virdef\virdef\updater26766
+C:\Users\jcronin\Downloads\virdef\virdef\ArcadeCandy\ACGames.exe
+C:\Users\jcronin\Downloads\virdef\virdef\ArcadeCandy\candyEX.dll
+C:\Users\jcronin\Downloads\virdef\virdef\ArcadeCandy\candyEXPE.dll
+C:\Users\jcronin\Downloads\virdef\virdef\ArcadeCandy\candyLinkx.crx
+C:\Users\jcronin\Downloads\virdef\virdef\ArcadeCandy\candyRemove.exe
+C:\Users\jcronin\Downloads\virdef\virdef\ArcadeCandy\candyUpdater.exe
+C:\Users\jcronin\Downloads\virdef\virdef\ArcadeCandy\games@acandy.com
+C:\Users\jcronin\Downloads\virdef\virdef\ArcadeCandy\params.dat
+C:\Users\jcronin\Downloads\virdef\virdef\ArcadeCandy\games@acandy.com\chrome
+C:\Users\jcronin\Downloads\virdef\virdef\ArcadeCandy\games@acandy.com\chrome.manifest
+C:\Users\jcronin\Downloads\virdef\virdef\ArcadeCandy\games@acandy.com\install.rdf
+C:\Users\jcronin\Downloads\virdef\virdef\ArcadeCandy\games@acandy.com\chrome\content
+C:\Users\jcronin\Downloads\virdef\virdef\ArcadeCandy\games@acandy.com\chrome\content\candyx.js
+C:\Users\jcronin\Downloads\virdef\virdef\ArcadeCandy\games@acandy.com\chrome\content\candyx.xul
+C:\Users\jcronin\Downloads\virdef\virdef\ArcadeCandy\games@acandy.com\chrome\content\ios48.png
+C:\Users\jcronin\Downloads\virdef\virdef\Arcadesafari\ArcadesafariGames.exe
+C:\Users\jcronin\Downloads\virdef\virdef\Arcadesafari\ArcadesafariLinkz.dll
+C:\Users\jcronin\Downloads\virdef\virdef\Arcadesafari\ArcadeSafariPE.dll
+C:\Users\jcronin\Downloads\virdef\virdef\Arcadesafari\ArcadesafariUninstall.exe
+C:\Users\jcronin\Downloads\virdef\virdef\Arcadesafari\ArcadesafariUpdater.exe
+C:\Users\jcronin\Downloads\virdef\virdef\Arcadesafari\module@com.arcadesafari.firefox
+C:\Users\jcronin\Downloads\virdef\virdef\Arcadesafari\preference.dat
+C:\Users\jcronin\Downloads\virdef\virdef\Arcadesafari\module@com.arcadesafari.firefox\chrome
+C:\Users\jcronin\Downloads\virdef\virdef\Arcadesafari\module@com.arcadesafari.firefox\chrome.manifest
+C:\Users\jcronin\Downloads\virdef\virdef\Arcadesafari\module@com.arcadesafari.firefox\install.rdf
+C:\Users\jcronin\Downloads\virdef\virdef\Arcadesafari\module@com.arcadesafari.firefox\chrome\locale
+C:\Users\jcronin\Downloads\virdef\virdef\Arcadesafari\module@com.arcadesafari.firefox\chrome\main
+C:\Users\jcronin\Downloads\virdef\virdef\Arcadesafari\module@com.arcadesafari.firefox\chrome\skin
+C:\Users\jcronin\Downloads\virdef\virdef\Arcadesafari\module@com.arcadesafari.firefox\chrome\locale\en-US
+C:\Users\jcronin\Downloads\virdef\virdef\Arcadesafari\module@com.arcadesafari.firefox\chrome\main\main.xul
+C:\Users\jcronin\Downloads\virdef\virdef\Arcadesafari\module@com.arcadesafari.firefox\chrome\main\module0.js
+C:\Users\jcronin\Downloads\virdef\virdef\Arcadesafari\module@com.arcadesafari.firefox\chrome\main\module1.js
+C:\Users\jcronin\Downloads\virdef\virdef\Arcadesafari\module@com.arcadesafari.firefox\chrome\main\module2.js
+C:\Users\jcronin\Downloads\virdef\virdef\Arcadesafari\module@com.arcadesafari.firefox\chrome\main\module3.js
+C:\Users\jcronin\Downloads\virdef\virdef\Arcadesafari\module@com.arcadesafari.firefox\chrome\main\module4.js
+C:\Users\jcronin\Downloads\virdef\virdef\Arcadesafari\module@com.arcadesafari.firefox\chrome\skin\style.css
+C:\Users\jcronin\Downloads\virdef\virdef\DownloadTerms\.build
+C:\Users\jcronin\Downloads\virdef\virdef\DownloadTerms\.user
+C:\Users\jcronin\Downloads\virdef\virdef\DownloadTerms\eula.txt
+C:\Users\jcronin\Downloads\virdef\virdef\DownloadTerms\temp.dat
+C:\Users\jcronin\Downloads\virdef\virdef\DownloadTerms\uninst.exe
+C:\Users\jcronin\Downloads\virdef\virdef\OpenCandy\4AC99C83D91949E0804CCC9BE7A5E2FF
+C:\Users\jcronin\Downloads\virdef\virdef\OpenCandy\4AC99C83D91949E0804CCC9BE7A5E2FF\ZenDealsApp_p1v4.exe
+C:\Users\jcronin\Downloads\virdef\virdef\TidyNetwork.com\sidTRUS01.tidy
+C:\Users\jcronin\Downloads\virdef\virdef\TidyNetwork.com\tidy2ie.dll
+C:\Users\jcronin\Downloads\virdef\virdef\TidyNetwork.com\tidy2networkTRUS01.exe
+C:\Users\jcronin\Downloads\virdef\virdef\TidyNetwork.com\tidy2update.exe
+C:\Users\jcronin\Downloads\virdef\virdef\TidyNetwork.com\tidynetwork.log
+C:\Users\jcronin\Downloads\virdef\virdef\updater26766\Updater26766.exe

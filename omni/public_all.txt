@@ -1,0 +1,32 @@
+c:\users\public\Documents
+c:\users\public\Downloads
+c:\users\public\Music
+c:\users\public\Pictures
+c:\users\public\Recorded TV
+c:\users\public\Symantec
+c:\users\public\Videos
+c:\users\public\Desktop\FileHopper
+c:\users\public\Desktop\Skype.lnk
+c:\users\public\Libraries\Apps.library-ms
+c:\users\public\Libraries\RecordedTV.library-ms
+c:\users\public\Music\Sample Music
+c:\users\public\Music\Sample Music\Kalimba.mp3
+c:\users\public\Music\Sample Music\Maid with the Flaxen Hair.mp3
+c:\users\public\Music\Sample Music\Sleep Away.mp3
+c:\users\public\Pictures\Sample Pictures
+c:\users\public\Pictures\Sample Pictures\Chrysanthemum.jpg
+c:\users\public\Pictures\Sample Pictures\Desert.jpg
+c:\users\public\Pictures\Sample Pictures\Hydrangeas.jpg
+c:\users\public\Pictures\Sample Pictures\Jellyfish.jpg
+c:\users\public\Pictures\Sample Pictures\Koala.jpg
+c:\users\public\Pictures\Sample Pictures\Lighthouse.jpg
+c:\users\public\Pictures\Sample Pictures\Penguins.jpg
+c:\users\public\Pictures\Sample Pictures\Tulips.jpg
+c:\users\public\Recorded TV\Sample Media
+c:\users\public\Recorded TV\Sample Media\win7_scenic-demoshort_raw.wtv
+c:\users\public\Symantec\SymSilent
+c:\users\public\Symantec\SymSilent\ccLog
+c:\users\public\Symantec\SymSilent\SymSilent.log
+c:\users\public\Symantec\SymSilent\ccLog\SymSilentV3-0x157C.log
+c:\users\public\Videos\Sample Videos
+c:\users\public\Videos\Sample Videos\Wildlife.wmv

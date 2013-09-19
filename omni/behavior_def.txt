@@ -1,0 +1,22 @@
+## Author Jonathon R. Cronin
+##
+##
+## When you are adding definitions to this file you put the location on the first line
+## and the actual reg_key on the second line.  This will check that location and key
+## for its value.    Breaking this method will BREAK this file!!!!
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System
+DisableTaskMgr
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System
+DisableCMD
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\ActiveDesktop
+NoChangingWallPaper
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System
+DisableTaskMgr
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System
+DisableCMD
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\ActiveDesktop
+NoChangingWallPaper
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Internet Explorer\Control Panel
+Proxy
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Internet Explorer\Control Panel
+AutoConfig
