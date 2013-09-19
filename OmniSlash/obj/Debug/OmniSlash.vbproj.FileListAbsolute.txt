@@ -1,0 +1,10 @@
+C:\Users\jcronin\Documents\Visual Studio 2012\Projects\OmniSlash\OmniSlash\bin\Debug\OmniSlash.exe.config
+C:\Users\jcronin\Documents\Visual Studio 2012\Projects\OmniSlash\OmniSlash\bin\Debug\OmniSlash.exe
+C:\Users\jcronin\Documents\Visual Studio 2012\Projects\OmniSlash\OmniSlash\bin\Debug\OmniSlash.pdb
+C:\Users\jcronin\Documents\Visual Studio 2012\Projects\OmniSlash\OmniSlash\bin\Debug\OmniSlash.xml
+C:\Users\jcronin\Documents\Visual Studio 2012\Projects\OmniSlash\OmniSlash\obj\Debug\OmniSlash.Omni.resources
+C:\Users\jcronin\Documents\Visual Studio 2012\Projects\OmniSlash\OmniSlash\obj\Debug\OmniSlash.Resources.resources
+C:\Users\jcronin\Documents\Visual Studio 2012\Projects\OmniSlash\OmniSlash\obj\Debug\OmniSlash.vbproj.GenerateResource.Cache
+C:\Users\jcronin\Documents\Visual Studio 2012\Projects\OmniSlash\OmniSlash\obj\Debug\OmniSlash.exe
+C:\Users\jcronin\Documents\Visual Studio 2012\Projects\OmniSlash\OmniSlash\obj\Debug\OmniSlash.xml
+C:\Users\jcronin\Documents\Visual Studio 2012\Projects\OmniSlash\OmniSlash\obj\Debug\OmniSlash.pdb
